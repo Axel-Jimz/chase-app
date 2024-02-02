@@ -1,0 +1,66 @@
+:root {
+    /* Breakpoints */
+    --breakpoint-sm: 35.5rem;
+    --breakpoint-md: 48rem;
+    --breakpoint-lg: 64rem;
+    --breakpoint-xl: 80rem;
+    --breakpoint-xxl: 90rem;
+    /* Font Families */
+    --primary-font: "Open Sans", sans-serif;
+    --secondary-font: "Lato", sans-serif;
+    /* Font Sizes */
+    --size-xs: 0.813rem;
+    --size-sm: 0.938rem;
+    --size-md: 0.938rem;
+    --size-lg: 1.125rem;
+    --size-xl: 2.25rem;
+    --size-xxl: 3.125rem;
+    /* Font Weights */
+    --weight-thin: 100;
+    --weight-extralight: 200;
+    --weight-light: 300;
+    --weight-regular: 400;
+    --weight-medium: 500;
+    --weight-semibold: 600;
+    --weight-bold: 700;
+    --weight-extrabold: 800;
+    --weight-black: 900;
+    /* Colors */
+    --color-red: #e03a3a;
+    --color-red-80: #e03a3a90;
+    --color-red-60: #e03a3a60;
+    --color-red-40: #e03a3a40;
+    --color-red-20: #e03a3a20;
+    --color-blue: #126bc5;
+    --color-blue-80: #126bc590;
+    --color-blue-60: #126bc560;
+    --color-blue-40: #126bc540;
+    --color-blue-20: #126bc520;
+    --color-yellow: #f2f200;
+    --color-green: #398100;
+    --color-green-80: #39810090;
+    --color-green-60: #39810060;
+    --color-green-40: #39810040;
+    --color-green-20: #39810020;
+    --color-white: #ffffff;
+    --color-white-80: #ffffff90;
+    --color-white-60: #ffffff60;
+    --color-white-40: #ffffff40;
+    --color-white-20: #ffffff20;
+    --color-black: #101820;
+    --color-black-80: #10182090;
+    --color-black-60: #10182060;
+    --color-black-40: #10182040;
+    --color-black-20: #10182020;
+    --color-gray: #cccccc;
+    --color-gray-80: #cccccc90;
+    --color-gray-60: #cccccc60;
+    --color-gray-40: #cccccc40;
+    --color-gray-20: #cccccc20;
+    --color-light: #f7f7f7;
+    --color-light-80: #f7f7f790;
+    --color-light-60: #f7f7f760;
+    --color-light-40: #f7f7f740;
+    --color-light-20: #f7f7f720;
+  }
+  
